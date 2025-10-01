@@ -1,12 +1,17 @@
 {
   "1": {
     "titel": "Caterpillar 320 GC",
-    "details": "Baujahr 2019, 800 h, 21.300 kg, volle Verrohrung, Schnellwechsler Lehnhoff MS 21",
+    "details": "Baujahr 2019, 800 h, Betriebsgewicht 21.300 kg, volle Verrohrung (Hammer, Greifer, Schere), Schnellwechsler Lehnhoff MS 21, hydraulischer Schnellwechsler vorgerüstet, 3000 mm Gesamtbreite, Werksgarantie",
     "kategorie": "Verkauf"
   },
   "2": {
     "titel": "Mustang HM 100 Hydraulikhammer",
-    "details": "Baujahr 2020, Gewicht 95 kg, Meißel, Ölmenge 23-30 l",
+    "details": "Baujahr 2020, Gewicht 95 kg, Meißel, Ölmenge 23-30 l, Betriebsdruck max. 100 bar, Baggerklasse 1,0 - 2,0 t, Seriennummer AH91462",
     "kategorie": "Verkauf"
+  },
+  "3": {
+    "titel": "Bomag BW 120 AD-5",
+    "details": "Baujahr 2018, 4 h, Tandemwalze, Betriebsgewicht 2700 kg, Doppelvibration, Arbeitsbreite 120 cm",
+    "kategorie": "Vermietung"
   }
 }
